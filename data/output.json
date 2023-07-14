@@ -1,0 +1,546 @@
+[
+    {
+        "t": 0,
+        "data": "Throughout my relatively short history with psychedelics thus far, I\u2019ve had a number of unexplainable experiences with LSD, psilocybin, DMT, and DXM, but never what I\u2019d consider a \u2018bad trip\u2019",
+        "bertweet": [
+            {
+                "label": "NEG",
+                "score": 0.7526859641075134
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "fear",
+                "score": 0.7624821066856384
+            }
+        ]
+    },
+    {
+        "t": 1,
+        "data": "This pattern of luck shattered last night, leaving me in the grips of a terrifying experience that I still cannot wrap my head around",
+        "bertweet": [
+            {
+                "label": "NEG",
+                "score": 0.9801461100578308
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "fear",
+                "score": 0.9838384389877319
+            }
+        ]
+    },
+    {
+        "t": 2,
+        "data": "To fully understand this experience, I feel it is important to detail the context surrounding it",
+        "bertweet": [
+            {
+                "label": "NEU",
+                "score": 0.9679381847381592
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "joy",
+                "score": 0.9988201260566711
+            }
+        ]
+    },
+    {
+        "t": 3,
+        "data": "My mental health is something I often fear for, and while psychedelics have taught me many important lessons, they have begun to produce increasingly sinister vibrations with each time I trip",
+        "bertweet": [
+            {
+                "label": "NEG",
+                "score": 0.8708971738815308
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "anger",
+                "score": 0.9847436547279358
+            }
+        ]
+    },
+    {
+        "t": 4,
+        "data": "These sinister undertones primarily emerge on the comeup of an experience, often manifesting in the form of vague, ill-defined imagery of maniacally laughing faces, glaring eyes, and sharp tendrils moving back and forth slowly",
+        "bertweet": [
+            {
+                "label": "NEU",
+                "score": 0.9529250860214233
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "anger",
+                "score": 0.9241141080856323
+            }
+        ]
+    },
+    {
+        "t": 5,
+        "data": "Attempting to say with certainty what causes this phenomenon would likely be impossible, though I believe it could be due to my persistent lack of sleep",
+        "bertweet": [
+            {
+                "label": "NEG",
+                "score": 0.5499507188796997
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "anger",
+                "score": 0.6517295837402344
+            }
+        ]
+    },
+    {
+        "t": 6,
+        "data": "My relationship with sleep has been spotty at best for nearly a year now, a fact which is made apparent by my occasional bouts of hallucinations and extreme paranoia",
+        "bertweet": [
+            {
+                "label": "NEG",
+                "score": 0.9474934935569763
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "fear",
+                "score": 0.9682328701019287
+            }
+        ]
+    },
+    {
+        "t": 7,
+        "data": "Still though, I thought very little of this and attempted to ignore it so as to avoid a trip taking a turn for the worse",
+        "bertweet": [
+            {
+                "label": "NEG",
+                "score": 0.5523645877838135
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "sadness",
+                "score": 0.7164242267608643
+            }
+        ]
+    },
+    {
+        "t": 8,
+        "data": "Obviously, though, it grew too intense to ignore and culminated in a sudden and hellish experience that has left me shaken since it happened",
+        "bertweet": [
+            {
+                "label": "NEG",
+                "score": 0.9382818937301636
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "fear",
+                "score": 0.9966775178909302
+            }
+        ]
+    },
+    {
+        "t": 9,
+        "data": "It was 8:20 P.M",
+        "bertweet": [
+            {
+                "label": "NEU",
+                "score": 0.9786663055419922
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "fear",
+                "score": 0.9318886399269104
+            }
+        ]
+    },
+    {
+        "t": 10,
+        "data": "and the sun was long gone from the sky",
+        "bertweet": [
+            {
+                "label": "NEU",
+                "score": 0.9656078219413757
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "anger",
+                "score": 0.6560454368591309
+            }
+        ]
+    },
+    {
+        "t": 11,
+        "data": "I had just finished eating dinner and prepared myself a peanut butter and jelly sandwich stuffed with 3.6 grams of mushrooms and a single tab of acid",
+        "bertweet": [
+            {
+                "label": "NEU",
+                "score": 0.9524540901184082
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "joy",
+                "score": 0.6468475461006165
+            }
+        ]
+    },
+    {
+        "t": 12,
+        "data": "This was a combination unfamiliar to me, though I was well acquainted with the substances on their own",
+        "bertweet": [
+            {
+                "label": "NEU",
+                "score": 0.9523786306381226
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "surprise",
+                "score": 0.5983973145484924
+            }
+        ]
+    },
+    {
+        "t": 13,
+        "data": "I went on a short walk to kill time before it began and then settled down in my room under the warm cover of a blanket",
+        "bertweet": [
+            {
+                "label": "NEU",
+                "score": 0.7952158451080322
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "love",
+                "score": 0.9575283527374268
+            }
+        ]
+    },
+    {
+        "t": 14,
+        "data": "I noticed the first effects around an hour after ingestion, and the subsequent comeup maintained a remarkably slow pace, leading me to believe the trip would be anticlimactic and uneventful",
+        "bertweet": [
+            {
+                "label": "NEU",
+                "score": 0.8502993583679199
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "joy",
+                "score": 0.7447599768638611
+            }
+        ]
+    },
+    {
+        "t": 15,
+        "data": "So, I went into the adjacent room where I had already prepared a pipeful of weed and took a few solid hits before returning to my room to relax and enjoy the rest of the experience",
+        "bertweet": [
+            {
+                "label": "POS",
+                "score": 0.7904453873634338
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "joy",
+                "score": 0.9976434111595154
+            }
+        ]
+    },
+    {
+        "t": 16,
+        "data": "I spent the next couple of hours listening to Townes van Zandt and Herbie Hancock while watching the inside of my eyelids",
+        "bertweet": [
+            {
+                "label": "NEU",
+                "score": 0.8663797974586487
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "anger",
+                "score": 0.3642677962779999
+            }
+        ]
+    },
+    {
+        "t": 17,
+        "data": "I loved every second of it and found myself feeling fully at peace",
+        "bertweet": [
+            {
+                "label": "POS",
+                "score": 0.9924992918968201
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "joy",
+                "score": 0.9989145994186401
+            }
+        ]
+    },
+    {
+        "t": 18,
+        "data": "The more I allowed my mind to drift off, the more it felt as though I was being held in the arms of someone behind me",
+        "bertweet": [
+            {
+                "label": "NEU",
+                "score": 0.922354519367218
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "fear",
+                "score": 0.9611631631851196
+            }
+        ]
+    },
+    {
+        "t": 19,
+        "data": "I felt an intense love for everything around me",
+        "bertweet": [
+            {
+                "label": "POS",
+                "score": 0.9899693131446838
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "joy",
+                "score": 0.774228572845459
+            }
+        ]
+    },
+    {
+        "t": 20,
+        "data": "Around 1:15, the effects of the mushrooms began to wane slightly and the acid was still going strong",
+        "bertweet": [
+            {
+                "label": "NEU",
+                "score": 0.8993237018585205
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "joy",
+                "score": 0.9676398038864136
+            }
+        ]
+    },
+    {
+        "t": 21,
+        "data": "I decided I would return to the other room and smoke the remaining grass in my pipe to extend the peak of the trip and resume the blissful state I was now coming down from",
+        "bertweet": [
+            {
+                "label": "NEU",
+                "score": 0.619764506816864
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "joy",
+                "score": 0.998231828212738
+            }
+        ]
+    },
+    {
+        "t": 22,
+        "data": "After three or four pulls from the pipe, I suddenly felt extremely fatigued and lightheaded, as though I were about to faint at any given moment",
+        "bertweet": [
+            {
+                "label": "NEG",
+                "score": 0.9313299655914307
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "sadness",
+                "score": 0.9961678385734558
+            }
+        ]
+    },
+    {
+        "t": 23,
+        "data": "I quickly straightened the desktop up and set my alarm for the morning before heading back into my bed, worried I would pass out",
+        "bertweet": [
+            {
+                "label": "NEU",
+                "score": 0.8432033061981201
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "fear",
+                "score": 0.9951671361923218
+            }
+        ]
+    },
+    {
+        "t": 24,
+        "data": "I buried my head into my pillow to try to relax and rest my mind for a bit",
+        "bertweet": [
+            {
+                "label": "NEU",
+                "score": 0.8113439679145813
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "joy",
+                "score": 0.935479998588562
+            }
+        ]
+    },
+    {
+        "t": 25,
+        "data": "When my eyes closed, I was near immediately overwhelmed by what I was witnessing",
+        "bertweet": [
+            {
+                "label": "NEU",
+                "score": 0.8213592171669006
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "surprise",
+                "score": 0.7061721086502075
+            }
+        ]
+    },
+    {
+        "t": 26,
+        "data": "A floating head of Ronald Reagan (no clue why) soared across my field of view, mockingly laughing as it passed",
+        "bertweet": [
+            {
+                "label": "NEU",
+                "score": 0.8703020215034485
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "joy",
+                "score": 0.845386266708374
+            }
+        ]
+    },
+    {
+        "t": 27,
+        "data": "Then, my vision went entirely dark before the word \u2018Lucifer\u2019 appeared in glowing white lettering",
+        "bertweet": [
+            {
+                "label": "NEU",
+                "score": 0.6756023168563843
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "fear",
+                "score": 0.7717426419258118
+            }
+        ]
+    },
+    {
+        "t": 28,
+        "data": "This sent a rush of fear into me, despite never having been a religious person",
+        "bertweet": [
+            {
+                "label": "NEG",
+                "score": 0.8513697981834412
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "anger",
+                "score": 0.5885464549064636
+            }
+        ]
+    },
+    {
+        "t": 29,
+        "data": "What followed was a brief, but seemingly endless onslaught of horrific, sullen imagery and incoherent, dysphoric thoughts about impending death, fear, and speaking to extraterrestrial beings",
+        "bertweet": [
+            {
+                "label": "NEG",
+                "score": 0.8924121260643005
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "anger",
+                "score": 0.48806655406951904
+            }
+        ]
+    },
+    {
+        "t": 30,
+        "data": "I cannot fully recall what conclusion was reached through these thoughts other than a vague sense of terror and complete loss of sanity",
+        "bertweet": [
+            {
+                "label": "NEG",
+                "score": 0.9405937194824219
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "fear",
+                "score": 0.9870001673698425
+            }
+        ]
+    },
+    {
+        "t": 31,
+        "data": "I was oddly unphased by this at the time, only finding it mildly odd, but as I continue to try to wrap my head around the experience it becomes more disturbing and strange",
+        "bertweet": [
+            {
+                "label": "NEG",
+                "score": 0.8828844428062439
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "fear",
+                "score": 0.8767827749252319
+            }
+        ]
+    },
+    {
+        "t": 32,
+        "data": "Despite having taken the acid only five hours earlier, I then went to sleep around 1:30, as I knew I would only grow more shaken by the experience the more I thought about it",
+        "bertweet": [
+            {
+                "label": "NEU",
+                "score": 0.7830635905265808
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "fear",
+                "score": 0.9957454800605774
+            }
+        ]
+    },
+    {
+        "t": 33,
+        "data": "It is now 16 hours since I first ate the acid and mushroom sandwich, and I am relatively back to baseline, although the nonspecific paranoia and confusion remain.",
+        "bertweet": [
+            {
+                "label": "NEU",
+                "score": 0.8776574730873108
+            }
+        ],
+        "distilbert": [
+            {
+                "label": "fear",
+                "score": 0.779165506362915
+            }
+        ]
+    }
+]
